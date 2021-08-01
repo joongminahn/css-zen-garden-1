@@ -799,7 +799,7 @@ header .badges .badge{
          margin-left: 42px;
          font-size: 28px;
          font-weight: 500;
-         opacity: 80%;
+         /* opacity: 80%; */
         }
       .footer h3{
          color: #fffcf6;
