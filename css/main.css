@@ -10,7 +10,7 @@ html,body {
   /* height: 6000px; */
   margin: 0px;
   padding: 0px;  
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 img{
   display: block;
@@ -569,9 +569,7 @@ header .badges .badge{
       font-weight: 600;
       color: #666666;
      }
-
      /* WHAT-IS-THIS */
-
      .what-is-this{
       background-image: url("../images/bg02.png");
       height: 440px;
