@@ -1,5 +1,6 @@
 /* COMMON */
-html,body {  
+html,body {    
+  width: 100%;
   height: 100vh;
   color: #333;
   font-size: 16px;
@@ -9,7 +10,7 @@ html,body {
   /* height: 6000px; */
   margin: 0px;
   padding: 0px;  
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 img{
   display: block;
@@ -17,11 +18,10 @@ img{
 a{
   text-decoration: none;
 }
-
 .inner {
   width: 1100px;
   margin: 0 auto;
-  position: relative;  
+  position: relative;    
 }
 .btn {
   width: 130px;
@@ -464,7 +464,6 @@ header .badges .badge{
   align-items: center;
   transition: .4s;
  }
-
  .notice .events .swiper-prev {
   left: 50%;
   margin-left: -480px;
@@ -477,8 +476,7 @@ header .badges .badge{
  .notice .events .swiper-next:hover {
    background-color: #333;
    color: #fff;
-  }
- 
+  } 
   /* REWARDS */
   .premium {
     position: relative;
@@ -558,8 +556,7 @@ header .badges .badge{
       min-width: 600px;
       position: absolute;
       top: 60px;
-      left: 490px;
-      
+      left: 490px;      
      }
     .enlightenment .h1-01{ 
       /* position: absolute; */
@@ -778,8 +775,7 @@ header .badges .badge{
       .footer{
         background-color: #12373A;
         height: 176px;
-        position: relative;
-        
+        position: relative;        
       }
       .footer .inner { }
       .footer .container01 { 
