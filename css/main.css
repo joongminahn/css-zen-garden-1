@@ -722,9 +722,7 @@ header .badges .badge{
         font-weight: 600;
         padding-bottom: 20px;
       }
-      .requirements .text-group05 .p-07 {
-
-      }
+      .requirements .text-group05 .p-07 {}
       .requirements .requirement-image01 {
         transform: scale(0.8);
         position: absolute;
@@ -801,9 +799,7 @@ header .badges .badge{
          top: 140px;
          left: 50%;
          transform: translateX(-50%);
-
-        }
-    
+        }    
         #to-top {
           width: 42px;
           height: 42px;
